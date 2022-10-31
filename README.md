@@ -4,4 +4,5 @@ From the 26th September I will be part of bootcamp 13, as part of the School of 
 
 <div align="center">
   <a href="https://twitter.com/coderRach" target="_blank"><img src="https://github.com/rachvm/rachvm/blob/main/2021%20Twitter%20logo%20-%20blue.png" width="40">
+  <a href="https://www.linkedin.com/in/rachel-morris-a3b125251/" target="_blank"><img src="https://github.com/rachvm/rachvm/blob/main/LI-Logo.png" width="80">    
  </div>
