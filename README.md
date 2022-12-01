@@ -9,7 +9,7 @@
                    
 Currently, devloping my full-stack skills with School of Code. I started my coding journey with Python, and now developing these skills into Javascript and others.
  
-When I'm not at my keyboard, I enjoy the great outdoors and particularly enjoy white water kayaking, sea kayaking and hiking.
+When I'm not at my keyboard, I enjoy the great outdoors, particularly, white water kayaking, sea kayaking and hiking.
 
 <br /> 
  
