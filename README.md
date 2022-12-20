@@ -11,20 +11,6 @@ Currently, devloping my full-stack skills with School of Code. I started my codi
  
 When I'm not at my keyboard, I enjoy the great outdoors, particularly, white water kayaking, sea kayaking and hiking.
 
-<br /> 
-
-<h2> Skill Development </h2>
-
-<h3>Creating A Sidebar</h3>
-<p>The purpose of this project was to teach myself how to use react router, develop my understanding of react, and to learn how to import content from mui.com</p>
-<ol>
-  <li>To begin with I experimented with the files created with create-react-app to find out what would break the app, and ways that I could either fix the errors, or decide which files were needed</li>
-  <li>Next I researched react router and with the support of the react router documentation I was able to create a simple website which when clicking on a menu bar it would change to the selected page</li>
-  <li>While reading through the documentation I had found that the browser I had used in the above step was not on the reccomended list for React Router v6, so for the this step I re wrote the code with the support of the react router documentation to use createBrowserRouter instead of using BrowserRouter</li>
-  <li>I now added the content from mui.com by reacing through the documentation provided by mui.com and looking at tutorials</li>
-  <li>My next steps are to use the grid method from mui.com to arrange the content on the page and to research and implement testing on react router</li>
-</ol>
-
 <br />
  
 <div align="left">
