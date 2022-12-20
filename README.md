@@ -1,18 +1,23 @@
+<img align="left" src="img.png" width="125">
 <div align="right">
   <a href="https://twitter.com/coderRach" target="_blank" class="twitter"><img src="https://github.com/rachvm/rachvm/blob/main/2021%20Twitter%20logo%20-%20blue.png" width="40">
   <a href="https://www.linkedin.com/in/rachel-morris-a3b125251/" target="_blank" class="linkedin><img src="" width="80"><img src="https://github.com/rachvm/rachvm/blob/207264e745c5fe80ca527de014b7ad5fcda69815/LI-Logo.png" width="100" style={margin-left: "50px"}>
+  
+  <br/>
+<img src="https://www.codewars.com/users/rachvm/badges/micro">
  </div>
-
+<br/>
+                                                             <br/>
+                                                             <br/>
 <div align="center">
                    <h1>Hi there 👋, I'm Rachel</h1>
 </div>
                    
-Currently, devloping my full-stack skills with School of Code. I started my coding journey with Python, and now developing these skills into Javascript and others.
+I started my coding journey by playing with an ardunino kit which started a love for coding. Afterwards I self taught myself Python with the support of books, and went onto do a course with Code First Girls, and then used Datacamp to further my Python skills. Most recently, I have being learning a Javascript and other languages and technologies with the School of Code.
  
 When I'm not at my keyboard, I enjoy the great outdoors, particularly, white water kayaking, sea kayaking and hiking.
 
-<br />
- 
+<br/>
 <div align="left">
   <h2>Languages and more</h2>
 </div>
@@ -37,3 +42,6 @@ When I'm not at my keyboard, I enjoy the great outdoors, particularly, white wat
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachvm&theme=tokyonight)
 
 </div>
+
+                   
+                   
