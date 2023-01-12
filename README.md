@@ -37,11 +37,7 @@ When I'm not at my keyboard, I enjoy the great outdoors, particularly, white wat
 
 </p>
                    
-<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachvm&theme=tokyonight)
-
-</div>
 
                    
                    
