@@ -13,9 +13,18 @@
                    <h1>Hi there 👋, I'm Rachel</h1>
 </div>
                    
-I started my coding journey by playing with an ardunino kit which started a love for coding. Afterwards I self taught myself Python with the support of books, and went onto do a course with Code First Girls, and then used Datacamp to further my Python skills. Most recently, I have being learning a Javascript and other languages and technologies with the School of Code.
- 
-When I'm not at my keyboard, I enjoy the great outdoors, particularly, white water kayaking, sea kayaking and hiking.
+<p>
+I have had an interest in coding ever since I was introduced to Basic on the Spectrum, 
+as a child. More recently, I rediscovered my passion for coding when I worked in secondary schools covering lessons including ICT, 
+and enjoyed debugging students codes. From this I started by playing with coding kits such as Arduino, then went on to develop my Python skills using books, 
+undertaken a Python course with Code 
+First Girls, and working through the Python Developer track on DataCamp.
+              
+The main developement of my coding skills has been through undertaking the intensive 16 week bootcamp through School of Code. As a bootcamper I have been introduced and developed my knowledge in Javascript, and other languages and technologies, as well as, a ever deeping enjoyment and fascination for 
+coding.
+
+ When I'm not at the keyboard, I enjoy the great outdoors, particularly, white water kayaking, sea kayaking and hiking.
+              </p>
 
 <br/>
 <div align="left">
