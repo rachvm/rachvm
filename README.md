@@ -12,8 +12,8 @@
 <div align="center">
                    <h1>Hi there 👋, I'm Rachel</h1>
 </div>
-                   
-<p>
+ 
+ <p>
  My journey into coding began as a young child when I was introduced to Basic on the Spectrum, I remember being fascinated by the challenges of instructing the computer. I rediscovered my passion for coding while working in secondary schools covering lessons, which included ICT, where I enjoyed debugging students codes. From this I started by playing with coding kits such as Arduino, then went on to develop my Python skills using books, undertaking a Python course with Code First Girls, then working through the Python Developer track on DataCamp. 
               
 The main developement of my coding skills, was during the intensive 16 week bootcamp through School of Code. As a bootcamper I have been introduced and 
@@ -24,11 +24,17 @@ When I'm not at the keyboard, I enjoy the great outdoors, particularly, white wa
               </p>
 
 <br/>
+                   
+<div align="center">
+                   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachvm&theme=tokyonight)
+
+</div>   
+                   
 <div align="left">
   <h2>Technlogy Stack
 </div>
-
-
+                                           
 <p align="center">
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
