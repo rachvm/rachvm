@@ -24,15 +24,12 @@ When I'm not at the keyboard, I enjoy the great outdoors, particularly, white wa
               </p>
 
 <br/>
-                   
-<div align="center">
-                   
-
-</div>   
+  
                    
 <div align="left">
   <h2>Technlogy Stack
 </div>
+                 
                                            
 <p align="center">
 
@@ -63,9 +60,14 @@ When I'm not at the keyboard, I enjoy the great outdoors, particularly, white wa
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 </p>
+<br/><br/>
 
-
-
-
+<div align="center">
+<a href="https://github.com/rachvm" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachvm&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
                    
+<a href="http://www.github.com/rachvm"><img src="https://github-readme-stats.vercel.app/api?username=rachvm&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rachvm's GitHub stats" /></a>
+
+<a href="http://www.github.com/rachvm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rachvm&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</div>
+               
                    
