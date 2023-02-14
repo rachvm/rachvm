@@ -27,7 +27,7 @@ When I'm not at the keyboard, I enjoy the great outdoors, particularly, white wa
   
                    
 <div align="left">
-  <h2>Technlogy Stack
+  <h2>Technology Stack
 </div>
                  
                                            
